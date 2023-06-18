@@ -1,0 +1,29 @@
+body {
+    padding: 256px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 64px;
+}
+
+.input-fields {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    padding: 16px;
+    text-align: center;
+}
+
+#btn {
+    padding: 16px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+#result {
+    font-weight: bold;
+}
